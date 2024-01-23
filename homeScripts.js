@@ -19,6 +19,7 @@
     //=====// INFINITE SCROLL //=======//
     setupUI()
 // "http://localhost:3030/api/v1/posts"
+//   let  baseUrl = "https://tarmeezacademy.com/api/v1";
 // 
     
     getPosts()
